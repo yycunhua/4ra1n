@@ -39,5 +39,5 @@
 
 ## 其他贡献
 - [Oracle 深度安全贡献者（2022年10月）](https://www.oracle.com/security-alerts/cpuoct2022.html)
-- 曾向`Apache Tomcat`, `Apache Skywalking`等多个`Apache`项目要贡献代码
+- 曾向`Apache Tomcat`, `Apache Skywalking`等多个`Apache`项目贡献代码
 - 曾向`Spring MVC`, `Spring Cloud`等多个`Spring`项目贡献代码
