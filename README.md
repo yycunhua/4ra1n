@@ -6,8 +6,9 @@
 
 ## 关于我
 - 主要做 Java/Golang 开发
-- 不懂渗透逆向，对Java安全略懂皮毛，会一些简单的代码审计
-- 在 [长亭科技](https://www.chaitin.cn/en/) 工作
+- 不懂渗透逆向，对 Java 安全略懂皮毛，会一些简单的代码审计
+- 2022 年毕业的本科生，目前在 [长亭科技](https://www.chaitin.cn/en/) 工作
+- 为什么 id 是 4ra1n ：其实是 for rain 的意思，她的名字是雨
 - 主要维护的项目：[super-xray](https://github.com/4ra1n/super-xray)
 - 有时间会完善的项目：[jar-analyzer](https://github.com/4ra1n/jar-analyzer)
 
