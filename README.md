@@ -19,7 +19,7 @@
 | Oracle | Weblogic | [CVE-2022-21441](https://www.oracle.com/security-alerts/cpuapr2022.html) | DoS |
 | Apache | Tomcat | [CVE-2022-29885](https://lists.apache.org/thread/2b4qmhbcyqvc7dyfpjyx54c03x65vhcv) | DoS |
 | Apache | Shiro | [CVE-2022-32532](https://lists.apache.org/thread/y8260dw8vbm99oq7zv6y3mzn5ovk90xh) | Auth Bypass |
-| Oracle | Weblogic | [CVE-2022-21557](https://www.oracle.com/security-alerts/cpujul2022.html) | DoS | Path Traversal |
+| Oracle | Weblogic | [CVE-2022-21557](https://www.oracle.com/security-alerts/cpujul2022.html) | DoS | Directory Traversal |
 | Oracle | Weblogic | [CVE-2022-21560](https://www.oracle.com/security-alerts/cpujul2022.html) | DoS | DoS |
 | Oracle | SOA Suite | [CVE-2022-21562](https://www.oracle.com/security-alerts/cpujul2022.html) | Arbitrary File Write |
 | Oracle | Weblogic | [CVE-2022-21564](https://www.oracle.com/security-alerts/cpujul2022.html) | DoS |
