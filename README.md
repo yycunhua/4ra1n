@@ -13,7 +13,7 @@
 ## CVE
 
 | Vendor |  Product | CVE-ID | Type |
-| :----: |  :----:  | :----: | :--: | 
+| :----- |  :-----  | :----- | :--- | 
 | Apache | Log4j2 | [CVE-2021-45046](https://logging.apache.org/log4j/2.x/security.html) | RCE |
 | VMware | Spring | [CVE-2022-22950](https://tanzu.vmware.com/security/cve-2022-22950) | DoS |
 | Oracle | Weblogic | [CVE-2022-21441](https://www.oracle.com/security-alerts/cpuapr2022.html) | DoS |
@@ -37,7 +37,5 @@
 | Apache | DolphinScheduler | [CVE-2022-45875](https://lists.apache.org/thread/r0wqzkjsoq17j6ww381kmpx3jjp9hb6r) | RCE |
 | Apache | ManifoldCF | [CVE-2022-45910](https://lists.apache.org/thread/ps32gd7y5cqtzz73kszsdxkk63oxqnso) | LDAP Injection |
 
-## 其他贡献
+## Others
 - [Oracle 深度安全贡献者（2022年10月）](https://www.oracle.com/security-alerts/cpuoct2022.html)
-- 曾向`Apache Tomcat`, `Apache Skywalking`等多个`Apache`项目贡献代码
-- 曾向`Spring MVC`, `Spring Cloud`等多个`Spring`项目贡献代码
