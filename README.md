@@ -17,7 +17,7 @@
 | Vendor |  Product | CVE-ID | Type |
 | :----- |  :-----  | :----- | :--- | 
 | Apache | Log4j2 | [CVE-2021-45046](https://logging.apache.org/log4j/2.x/security.html) | DoS & RCE |
-| VMware | Spring Framework | [CVE-2022-22950](https://tanzu.vmware.com/security/cve-2022-22950) | DoS |
+| Spring | Spring Framework | [CVE-2022-22950](https://tanzu.vmware.com/security/cve-2022-22950) | DoS |
 | Oracle | Weblogic | [CVE-2022-21441](https://www.oracle.com/security-alerts/cpuapr2022.html) | DoS |
 | Apache | Tomcat | [CVE-2022-29885](https://lists.apache.org/thread/2b4qmhbcyqvc7dyfpjyx54c03x65vhcv) | DoS |
 | Apache | Shiro | [CVE-2022-32532](https://lists.apache.org/thread/y8260dw8vbm99oq7zv6y3mzn5ovk90xh) | Auth Bypass |
