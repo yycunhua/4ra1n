@@ -1,6 +1,6 @@
 ### I am 4ra1n
 
-我没有任何公众号和任何星球
+没有任何公众号/星球/知乎/twitter/QQ群/微信群等
 
 只有b站：https://space.bilibili.com/1106751850
 
