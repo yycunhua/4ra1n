@@ -1,11 +1,8 @@
 ### I am 4ra1n
 
-没有任何公众号/星球/知乎/twitter/QQ群/微信群等
-
-只有b站：https://space.bilibili.com/1106751850
-
 ## 关于我
 - 主要做 Java/Golang 开发
+- 没有任何公众号和知识星球
 - 不懂渗透逆向，对 Java 安全略懂皮毛，会一些简单的代码审计
 - 2022 年毕业的本科生，目前在 [长亭科技](https://www.chaitin.cn/en/) 工作
 - 为什么 id 是 4ra1n ：其实是 for rain 的意思，她的名字是雨
