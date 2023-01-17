@@ -35,7 +35,7 @@
 | Apache | IoTDB | [CVE-2022-43766](https://lists.apache.org/thread/9pgpb82p5brooy41n8l5q0y9h33db2zn) | DoS |
 | Apache | DolphinScheduler | [CVE-2022-45875](https://lists.apache.org/thread/r0wqzkjsoq17j6ww381kmpx3jjp9hb6r) | RCE |
 | Apache | ManifoldCF | [CVE-2022-45910](https://lists.apache.org/thread/ps32gd7y5cqtzz73kszsdxkk63oxqnso) | LDAP Injection |
-| Oracle | BI Publisher | [CVE-2023-21821](https://www.oracle.com/security-alerts/cpujan2023.html) | RCE |
+| Oracle | BI Publisher | [CVE-2023-21832](https://www.oracle.com/security-alerts/cpujan2023.html) | RCE |
 | Oracle | Weblogic | [CVE-2023-21839](https://www.oracle.com/security-alerts/cpujan2023.html) | RCE |
 | Oracle | BI Publisher | [CVE-2023-21846](https://www.oracle.com/security-alerts/cpujan2023.html) | RCE |
 
